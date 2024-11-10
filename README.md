@@ -1,2 +1,4 @@
 # tweetDSA
-A chrome extension that allows you to send out a tweet every time you finish a DSA question. (Sort of)
+🐦✅✨ A Chrome extension that tweets every time you complete a DSA problem.
+Tech: JavaScript, Chrome Extensions
+Features: Auto-tweeting, DSA progress tracking
